@@ -1,0 +1,17 @@
+* {
+  background-color: rgb(243, 198, 138);
+  box-sizing: border-box;
+}
+
+img {
+  width: 500px;
+  height: 400px;
+}
+#row{
+  display: table;
+}
+.column{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
